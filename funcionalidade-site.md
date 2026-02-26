@@ -18,6 +18,9 @@
         
 - Todos as fotos e o logo da Formula 1 estão divididos em pastas.
 - Assim que vocÊ clicar no nome da equipe ou da pista, ela abre um pop up contendo a foto e as informações.
+<div>
+ <img src="imagens/image.png"
+</div>
 
 ## Rodapé
 - no Rodapé foi colocado um Footer com todos os direitos autorais da marca.
